@@ -5,7 +5,7 @@ body {
     flex-direction: column; /* Элементы располагаются в столбик */
     justify-content: center; /* Центрируем по вертикали */
     align-items: center; /* Центрируем по горизонтали */
-    font-family: 'Patrick Hand', cursive; /* Рукописный шрифт */
+    font-family: 'Patrick Hand', sans-serif; /* Рукописный шрифт */
     background-color: #f9f9f9; /* Фоновый цвет */
 }
 
@@ -23,7 +23,7 @@ button {
     background: linear-gradient(to bottom, #efe9d1, #eecdb6); /* Градиент */
     border: none; /* Убираем границу */
     color: #333; /* Цвет текста */
-    font-family: 'Patrick Hand', cursive; /* Рукописный шрифт */
+    font-family: 'Patrick Hand', sans-serif; /* Рукописный шрифт */
     font-size: 16px; /* Размер шрифта */
     padding: 10px 20px; /* Внутренние отступы */
     border-radius: 8px; /* Закругление углов */
